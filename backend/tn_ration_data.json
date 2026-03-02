@@ -1,0 +1,686 @@
+[
+  {
+    "district": "Ariyalur",
+    "shop": {
+      "name": "Ariyalur FPS 001",
+      "code": "ARI-S01",
+      "ivr": "+919801000000"
+    },
+    "users": [
+      {
+        "card_number": "330100000001",
+        "head_of_family": "User ARI 1"
+      },
+      {
+        "card_number": "330100000002",
+        "head_of_family": "User ARI 2"
+      }
+    ]
+  },
+  {
+    "district": "Chengalpattu",
+    "shop": {
+      "name": "Chengalpattu FPS 001",
+      "code": "CGL-S01",
+      "ivr": "+919802000000"
+    },
+    "users": [
+      {
+        "card_number": "330200000001",
+        "head_of_family": "User CGL 1"
+      },
+      {
+        "card_number": "330200000002",
+        "head_of_family": "User CGL 2"
+      }
+    ]
+  },
+  {
+    "district": "Chennai",
+    "shop": {
+      "name": "Chennai FPS 001",
+      "code": "CHN-S01",
+      "ivr": "+919803000000"
+    },
+    "users": [
+      {
+        "card_number": "330300000001",
+        "head_of_family": "User CHN 1"
+      },
+      {
+        "card_number": "330300000002",
+        "head_of_family": "User CHN 2"
+      }
+    ]
+  },
+  {
+    "district": "Coimbatore",
+    "shop": {
+      "name": "Coimbatore FPS 001",
+      "code": "CBE-S01",
+      "ivr": "+919804000000"
+    },
+    "users": [
+      {
+        "card_number": "330400000001",
+        "head_of_family": "User CBE 1"
+      },
+      {
+        "card_number": "330400000002",
+        "head_of_family": "User CBE 2"
+      }
+    ]
+  },
+  {
+    "district": "Cuddalore",
+    "shop": {
+      "name": "Cuddalore FPS 001",
+      "code": "CUD-S01",
+      "ivr": "+919805000000"
+    },
+    "users": [
+      {
+        "card_number": "330500000001",
+        "head_of_family": "User CUD 1"
+      },
+      {
+        "card_number": "330500000002",
+        "head_of_family": "User CUD 2"
+      }
+    ]
+  },
+  {
+    "district": "Dharmapuri",
+    "shop": {
+      "name": "Dharmapuri FPS 001",
+      "code": "DPI-S01",
+      "ivr": "+919806000000"
+    },
+    "users": [
+      {
+        "card_number": "330600000001",
+        "head_of_family": "User DPI 1"
+      },
+      {
+        "card_number": "330600000002",
+        "head_of_family": "User DPI 2"
+      }
+    ]
+  },
+  {
+    "district": "Dindigul",
+    "shop": {
+      "name": "Dindigul FPS 001",
+      "code": "DIN-S01",
+      "ivr": "+919807000000"
+    },
+    "users": [
+      {
+        "card_number": "330700000001",
+        "head_of_family": "User DIN 1"
+      },
+      {
+        "card_number": "330700000002",
+        "head_of_family": "User DIN 2"
+      }
+    ]
+  },
+  {
+    "district": "Erode",
+    "shop": {
+      "name": "Erode FPS 001",
+      "code": "ERD-S01",
+      "ivr": "+919808000000"
+    },
+    "users": [
+      {
+        "card_number": "330800000001",
+        "head_of_family": "User ERD 1"
+      },
+      {
+        "card_number": "330800000002",
+        "head_of_family": "User ERD 2"
+      }
+    ]
+  },
+  {
+    "district": "Kallakurichi",
+    "shop": {
+      "name": "Kallakurichi FPS 001",
+      "code": "KCU-S01",
+      "ivr": "+919809000000"
+    },
+    "users": [
+      {
+        "card_number": "330900000001",
+        "head_of_family": "User KCU 1"
+      },
+      {
+        "card_number": "330900000002",
+        "head_of_family": "User KCU 2"
+      }
+    ]
+  },
+  {
+    "district": "Kanchipuram",
+    "shop": {
+      "name": "Kanchipuram FPS 001",
+      "code": "KPM-S01",
+      "ivr": "+919810000000"
+    },
+    "users": [
+      {
+        "card_number": "331000000001",
+        "head_of_family": "User KPM 1"
+      },
+      {
+        "card_number": "331000000002",
+        "head_of_family": "User KPM 2"
+      }
+    ]
+  },
+  {
+    "district": "Kanyakumari",
+    "shop": {
+      "name": "Kanyakumari FPS 001",
+      "code": "KKI-S01",
+      "ivr": "+919811000000"
+    },
+    "users": [
+      {
+        "card_number": "331100000001",
+        "head_of_family": "User KKI 1"
+      },
+      {
+        "card_number": "331100000002",
+        "head_of_family": "User KKI 2"
+      }
+    ]
+  },
+  {
+    "district": "Karur",
+    "shop": {
+      "name": "Karur FPS 001",
+      "code": "KAR-S01",
+      "ivr": "+919812000000"
+    },
+    "users": [
+      {
+        "card_number": "331200000001",
+        "head_of_family": "User KAR 1"
+      },
+      {
+        "card_number": "331200000002",
+        "head_of_family": "User KAR 2"
+      }
+    ]
+  },
+  {
+    "district": "Krishnagiri",
+    "shop": {
+      "name": "Krishnagiri FPS 001",
+      "code": "KRI-S01",
+      "ivr": "+919813000000"
+    },
+    "users": [
+      {
+        "card_number": "331300000001",
+        "head_of_family": "User KRI 1"
+      },
+      {
+        "card_number": "331300000002",
+        "head_of_family": "User KRI 2"
+      }
+    ]
+  },
+  {
+    "district": "Madurai",
+    "shop": {
+      "name": "Madurai FPS 001",
+      "code": "MDU-S01",
+      "ivr": "+919814000000"
+    },
+    "users": [
+      {
+        "card_number": "331400000001",
+        "head_of_family": "User MDU 1"
+      },
+      {
+        "card_number": "331400000002",
+        "head_of_family": "User MDU 2"
+      }
+    ]
+  },
+  {
+    "district": "Mayiladuthurai",
+    "shop": {
+      "name": "Mayiladuthurai FPS 001",
+      "code": "MYD-S01",
+      "ivr": "+919815000000"
+    },
+    "users": [
+      {
+        "card_number": "331500000001",
+        "head_of_family": "User MYD 1"
+      },
+      {
+        "card_number": "331500000002",
+        "head_of_family": "User MYD 2"
+      }
+    ]
+  },
+  {
+    "district": "Nagapattinam",
+    "shop": {
+      "name": "Nagapattinam FPS 001",
+      "code": "NGP-S01",
+      "ivr": "+919816000000"
+    },
+    "users": [
+      {
+        "card_number": "331600000001",
+        "head_of_family": "User NGP 1"
+      },
+      {
+        "card_number": "331600000002",
+        "head_of_family": "User NGP 2"
+      }
+    ]
+  },
+  {
+    "district": "Namakkal",
+    "shop": {
+      "name": "Namakkal FPS 001",
+      "code": "NMK-S01",
+      "ivr": "+919817000000"
+    },
+    "users": [
+      {
+        "card_number": "331700000001",
+        "head_of_family": "User NMK 1"
+      },
+      {
+        "card_number": "331700000002",
+        "head_of_family": "User NMK 2"
+      }
+    ]
+  },
+  {
+    "district": "Nilgiris",
+    "shop": {
+      "name": "Nilgiris FPS 001",
+      "code": "NIL-S01",
+      "ivr": "+919818000000"
+    },
+    "users": [
+      {
+        "card_number": "331800000001",
+        "head_of_family": "User NIL 1"
+      },
+      {
+        "card_number": "331800000002",
+        "head_of_family": "User NIL 2"
+      }
+    ]
+  },
+  {
+    "district": "Perambalur",
+    "shop": {
+      "name": "Perambalur FPS 001",
+      "code": "PBL-S01",
+      "ivr": "+919819000000"
+    },
+    "users": [
+      {
+        "card_number": "331900000001",
+        "head_of_family": "User PBL 1"
+      },
+      {
+        "card_number": "331900000002",
+        "head_of_family": "User PBL 2"
+      }
+    ]
+  },
+  {
+    "district": "Pudukkottai",
+    "shop": {
+      "name": "Pudukkottai FPS 001",
+      "code": "PDK-S01",
+      "ivr": "+919820000000"
+    },
+    "users": [
+      {
+        "card_number": "332000000001",
+        "head_of_family": "User PDK 1"
+      },
+      {
+        "card_number": "332000000002",
+        "head_of_family": "User PDK 2"
+      }
+    ]
+  },
+  {
+    "district": "Ramanathapuram",
+    "shop": {
+      "name": "Ramanathapuram FPS 001",
+      "code": "RMD-S01",
+      "ivr": "+919821000000"
+    },
+    "users": [
+      {
+        "card_number": "332100000001",
+        "head_of_family": "User RMD 1"
+      },
+      {
+        "card_number": "332100000002",
+        "head_of_family": "User RMD 2"
+      }
+    ]
+  },
+  {
+    "district": "Ranipet",
+    "shop": {
+      "name": "Ranipet FPS 001",
+      "code": "RPT-S01",
+      "ivr": "+919822000000"
+    },
+    "users": [
+      {
+        "card_number": "332200000001",
+        "head_of_family": "User RPT 1"
+      },
+      {
+        "card_number": "332200000002",
+        "head_of_family": "User RPT 2"
+      }
+    ]
+  },
+  {
+    "district": "Salem",
+    "shop": {
+      "name": "Salem FPS 001",
+      "code": "SLM-S01",
+      "ivr": "+919823000000"
+    },
+    "users": [
+      {
+        "card_number": "332300000001",
+        "head_of_family": "User SLM 1"
+      },
+      {
+        "card_number": "332300000002",
+        "head_of_family": "User SLM 2"
+      }
+    ]
+  },
+  {
+    "district": "Sivaganga",
+    "shop": {
+      "name": "Sivaganga FPS 001",
+      "code": "SVG-S01",
+      "ivr": "+919824000000"
+    },
+    "users": [
+      {
+        "card_number": "332400000001",
+        "head_of_family": "User SVG 1"
+      },
+      {
+        "card_number": "332400000002",
+        "head_of_family": "User SVG 2"
+      }
+    ]
+  },
+  {
+    "district": "Tenkasi",
+    "shop": {
+      "name": "Tenkasi FPS 001",
+      "code": "TSI-S01",
+      "ivr": "+919825000000"
+    },
+    "users": [
+      {
+        "card_number": "332500000001",
+        "head_of_family": "User TSI 1"
+      },
+      {
+        "card_number": "332500000002",
+        "head_of_family": "User TSI 2"
+      }
+    ]
+  },
+  {
+    "district": "Thanjavur",
+    "shop": {
+      "name": "Thanjavur FPS 001",
+      "code": "TNJ-S01",
+      "ivr": "+919826000000"
+    },
+    "users": [
+      {
+        "card_number": "332600000001",
+        "head_of_family": "User TNJ 1"
+      },
+      {
+        "card_number": "332600000002",
+        "head_of_family": "User TNJ 2"
+      }
+    ]
+  },
+  {
+    "district": "Theni",
+    "shop": {
+      "name": "Theni FPS 001",
+      "code": "THN-S01",
+      "ivr": "+919827000000"
+    },
+    "users": [
+      {
+        "card_number": "332700000001",
+        "head_of_family": "User THN 1"
+      },
+      {
+        "card_number": "332700000002",
+        "head_of_family": "User THN 2"
+      }
+    ]
+  },
+  {
+    "district": "Thoothukudi",
+    "shop": {
+      "name": "Thoothukudi FPS 001",
+      "code": "THO-S01",
+      "ivr": "+919828000000"
+    },
+    "users": [
+      {
+        "card_number": "332800000001",
+        "head_of_family": "User THO 1"
+      },
+      {
+        "card_number": "332800000002",
+        "head_of_family": "User THO 2"
+      }
+    ]
+  },
+  {
+    "district": "Tiruchirappalli",
+    "shop": {
+      "name": "Tiruchirappalli FPS 001",
+      "code": "TRY-S01",
+      "ivr": "+919829000000"
+    },
+    "users": [
+      {
+        "card_number": "332900000001",
+        "head_of_family": "User TRY 1"
+      },
+      {
+        "card_number": "332900000002",
+        "head_of_family": "User TRY 2"
+      }
+    ]
+  },
+  {
+    "district": "Tirunelveli",
+    "shop": {
+      "name": "Tirunelveli FPS 001",
+      "code": "TNV-S01",
+      "ivr": "+919830000000"
+    },
+    "users": [
+      {
+        "card_number": "333000000001",
+        "head_of_family": "User TNV 1"
+      },
+      {
+        "card_number": "333000000002",
+        "head_of_family": "User TNV 2"
+      }
+    ]
+  },
+  {
+    "district": "Tirupathur",
+    "shop": {
+      "name": "Tirupathur FPS 001",
+      "code": "TPT-S01",
+      "ivr": "+919831000000"
+    },
+    "users": [
+      {
+        "card_number": "333100000001",
+        "head_of_family": "User TPT 1"
+      },
+      {
+        "card_number": "333100000002",
+        "head_of_family": "User TPT 2"
+      }
+    ]
+  },
+  {
+    "district": "Tiruppur",
+    "shop": {
+      "name": "Tiruppur FPS 001",
+      "code": "TPR-S01",
+      "ivr": "+919832000000"
+    },
+    "users": [
+      {
+        "card_number": "333200000001",
+        "head_of_family": "User TPR 1"
+      },
+      {
+        "card_number": "333200000002",
+        "head_of_family": "User TPR 2"
+      }
+    ]
+  },
+  {
+    "district": "Tiruvallur",
+    "shop": {
+      "name": "Tiruvallur FPS 001",
+      "code": "TVL-S01",
+      "ivr": "+919833000000"
+    },
+    "users": [
+      {
+        "card_number": "333300000001",
+        "head_of_family": "User TVL 1"
+      },
+      {
+        "card_number": "333300000002",
+        "head_of_family": "User TVL 2"
+      }
+    ]
+  },
+  {
+    "district": "Tiruvannamalai",
+    "shop": {
+      "name": "Tiruvannamalai FPS 001",
+      "code": "TVM-S01",
+      "ivr": "+919834000000"
+    },
+    "users": [
+      {
+        "card_number": "333400000001",
+        "head_of_family": "User TVM 1"
+      },
+      {
+        "card_number": "333400000002",
+        "head_of_family": "User TVM 2"
+      }
+    ]
+  },
+  {
+    "district": "Tiruvarur",
+    "shop": {
+      "name": "Tiruvarur FPS 001",
+      "code": "TVR-S01",
+      "ivr": "+919835000000"
+    },
+    "users": [
+      {
+        "card_number": "333500000001",
+        "head_of_family": "User TVR 1"
+      },
+      {
+        "card_number": "333500000002",
+        "head_of_family": "User TVR 2"
+      }
+    ]
+  },
+  {
+    "district": "Vellore",
+    "shop": {
+      "name": "Vellore FPS 001",
+      "code": "VEL-S01",
+      "ivr": "+919836000000"
+    },
+    "users": [
+      {
+        "card_number": "333600000001",
+        "head_of_family": "User VEL 1"
+      },
+      {
+        "card_number": "333600000002",
+        "head_of_family": "User VEL 2"
+      }
+    ]
+  },
+  {
+    "district": "Viluppuram",
+    "shop": {
+      "name": "Viluppuram FPS 001",
+      "code": "VUP-S01",
+      "ivr": "+919837000000"
+    },
+    "users": [
+      {
+        "card_number": "333700000001",
+        "head_of_family": "User VUP 1"
+      },
+      {
+        "card_number": "333700000002",
+        "head_of_family": "User VUP 2"
+      }
+    ]
+  },
+  {
+    "district": "Virudhunagar",
+    "shop": {
+      "name": "Virudhunagar FPS 001",
+      "code": "VNR-S01",
+      "ivr": "+919838000000"
+    },
+    "users": [
+      {
+        "card_number": "333800000001",
+        "head_of_family": "User VNR 1"
+      },
+      {
+        "card_number": "333800000002",
+        "head_of_family": "User VNR 2"
+      }
+    ]
+  }
+]
